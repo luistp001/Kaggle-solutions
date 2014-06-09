@@ -3,6 +3,10 @@ https://www.kaggle.com/c/amazon-employee-access-challenge
 3rd place, team Dmitry&Leustagos, members: Lucas Silva, Dmitry Efimov
 ===========================
 
+
+[Summary of method](https://github.com/luisKaggle/Kaggle-solutions/blob/master/category1/Amazon-access-employee-challenge/team-3/summary-method.md)
+-----------------
+
 # License
 Copyright [2013] [Dmitry Efimov, Lucas Silva]
 Licensed under the Apache License, Version 2.0 (the "License");
