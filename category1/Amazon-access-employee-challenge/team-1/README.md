@@ -6,6 +6,9 @@ It provides our winning solution to the Amazon Employee Access Challenge.
 Our code is currently not merged. You'll find Benjamin's code in the BSMan/ folder, which needs to be run separately.
 
 
+[Summary of Method](https://github.com/luisKaggle/Kaggle-solutions/blob/master/category1/Amazon-access-employee-challenge/team-1/summary-method.md)
+----------------
+
 Usage:
 ---------------
     [python] classifier.py [-h] [-d] [-i ITER] [-f OUTPUTFILE] [-g] [-m] [-n] [-s] [-v] [-w]
