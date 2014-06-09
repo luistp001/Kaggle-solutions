@@ -1,7 +1,9 @@
 Summary of our approach.
 ========================
-Our result submission was linear combination of 11 models: 6 GBM models with different sets of features (package gbm in R), 2 GLMNET models (package glmnet in R), 1 RF model (randomForest package in R), 2 logistic regression models (based on Miroslaw code).
-1) GBM models were based on different sets of features, here the ideas:
+Our result submission was linear combination of 11 models: 6 GBM models with different sets of features (package gbm in R), 2 GLMNET models (package glmnet in R), 1 RF model (randomForest package in R), 2 logistic regression models (based on Miroslaw code). 
+
+1) GBM models were based on different sets of features, here the ideas: 
+
 1.1) We used categorical features as numerical in several GBM models.
 1.2) We also removed role1 and family from several GBM models.
 1.3) Homogeneous ensembling for all GBM models (average of predictions based on parts of the train set).
